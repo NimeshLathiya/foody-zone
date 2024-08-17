@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "";
+import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import SearchResult from "./components/SearchResults/SearchResult";
 
